@@ -1,8 +1,8 @@
 # 🏄‍♂️ Hamza Shoukat
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Web Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a passionate computer scientist specializing in full-stack web development. With extensive experience in creating responsive, SEO-friendly web solutions, I work with technologies such as HTML, CSS, JavaScript, PHP, and WordPress. My skills include building and managing web applications, debugging, optimizing code, and ensuring high-quality performance. I am continuously seeking new opportunities to apply my problem-solving abilities and technical expertise to innovative projects.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
