@@ -4,7 +4,7 @@
 
 I'm a passionate computer scientist specializing in full-stack web development. With extensive experience in creating responsive, SEO-friendly web solutions, I work with technologies such as HTML, CSS, JavaScript, PHP, and WordPress. My skills include building and managing web applications, debugging, optimizing code, and ensuring high-quality performance. I am continuously seeking new opportunities to apply my problem-solving abilities and technical expertise to innovative projects.
 
-   <p align="left">
+<!--   <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
@@ -14,7 +14,7 @@ I'm a passionate computer scientist specializing in full-stack web development. 
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+-->
 ---
 
 
@@ -74,7 +74,7 @@ I'm a passionate computer scientist specializing in full-stack web development. 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?ScarFace8080=ScarFace8080&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
