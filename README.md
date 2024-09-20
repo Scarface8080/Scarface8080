@@ -63,8 +63,8 @@ I'm a passionate computer scientist specializing in full-stack web development. 
 
 
 
-<a href="https://app.daily.dev/scarface8080"><img src="https://api.daily.dev/devcards/v2/aQroGXGpbIohm2vBZdOh1.png?type=default&r=y10" width="356" alt="hamza shoukat's Dev Card"/></a>
 
+<a href="https://app.daily.dev/scarface8080"><img src="https://api.daily.dev/devcards/v2/aQroGXGpbIohm2vBZdOh1.png?type=wide&r=y10" width="652" alt="hamza shoukat's Dev Card"/></a>
 
 
 
