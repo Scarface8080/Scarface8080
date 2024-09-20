@@ -53,6 +53,13 @@ I'm a passionate computer scientist specializing in full-stack web development. 
 <br />
 
 
+
+
+<a href="https://app.daily.dev/scarface8080"><img src="https://api.daily.dev/devcards/v2/aQroGXGpbIohm2vBZdOh1.png?type=default&r=7e4" width="356" alt="hamza shoukat's Dev Card"/></a>
+
+
+
+
 ---
 
 ### 📺 Projects and Portfolios
